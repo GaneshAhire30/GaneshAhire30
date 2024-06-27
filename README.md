@@ -42,9 +42,29 @@
  <img src="https://img.shields.io/badge/Statistics-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Data Wranling-20232A?style=for-the-badge&logo=Data Wranling&logoColor=white" /> <img src="https://img.shields.io/badge/EDA-0078D4?style=for-the-badge&logo=Colab&logoColor=white" />  <img src="https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 ###  𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞
- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
- ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
- ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<img src="https://img.shields.io/badge/Machine Learning-20232A?style=for-the-badge&logo=Machine learning%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Deep learning-0056D2?style=for-the-badge&logo=Deep learning%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-20232A?style=for-the-badge&logo=CNN&logoColor=white"/>
 
 ###  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬
  <a href="https://github.com/Tanwar-12"><img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-005C84?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-20232A?style=for-the-badge&logo=Notepad++&logoColor=white"/> </a> <img src="https://img.shields.io/badge/SUBLIME TEXT-005C84?style=for-the-badge&logo=sublimetext&logoColor=white"/><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter Notebook-20232A?style=for-the-badge&logo=Jupyter Notebook&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-0078D4?style=for-the-badge&logo=Colab&logoColor=white" />  <img src="https://img.shields.io/badge/Google_chrome-20232A?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/Pycharm-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  <img src="https://img.shields.io/badge/Replit-20232A?style=for-the-badge&logo=Replit&logoColor=white" /> 
+
+# 📊 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
+ <div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshAhire30&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaneshAhire30&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GaneshAhire30&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaneshAhire30&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaneshAhire30&theme=github_dark" />
+</div>
+
+
+## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
+![](https://github-profile-trophy.vercel.app/?username=PawarMukesh&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+
+
+### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+### 🔝 𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨
+![](https://github-contributor-stats.vercel.app/api?username=GaneshAhire30&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+---
