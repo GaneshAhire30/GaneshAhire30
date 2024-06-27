@@ -1,29 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ganesh Ahire</h1>
-<h3 align="center">Passionate Data Scientist</h3>
+![Profile views](https://komarev.com/ghpvc/?username=GaneshAhire30&style=for-the-badge&color=013243 )
+[![Tanwar-12 stars](https://img.shields.io/github/stars/GaneshAhire30?color=DAF7A6&style=for-the-badge&logo=https://github.com/GaneshAhire30/repo/raw/main/path/to/your/image.png)](https://github.com/GaneshAhire30?tab=repositories&sort=stargazers)
+![Followers](https://img.shields.io/github/followers/Tanwar-12?style=for-the-badge&color=013243)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshahire30&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshahire30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshahire30" alt="ganeshahire30" /></a> </p>
+<h1 align="center"> 𝐇𝐞𝐲, 𝐈'𝐦 𝐆𝐚𝐧𝐞𝐬𝐡 𝐀𝐡𝐢𝐫𝐞  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+# 🙋‍♂️ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄:
+*Hi there! I'm Ganesh Ahire, a B.Tech Mechanical Engineer turned Data Scientist and AI Expert. Currently, I'm diving deep into advanced AI skills, continually expanding my knowledge and expertise*
 
-- 💬 Ask me about **ML, DL, NLP**
+*Driven by an insatiable curiosity and a passion for technology, I am a zealous and self-motivated individual. I thrive on learning and exploring new frontiers, always staying flexible and reliable. My excellent time-keeping skills ensure I make the most of every opportunity to grow and improve.*
 
-- 📫 How to reach me **ganeshahire783@gmail.com**
+*My journey has been marked by extensive work and reading in the fields of Machine Learning and Deep Learning. I'm dedicated to pushing the boundaries of what's possible with AI, and I'm excited to share my knowledge and projects with you here.*
 
-- ⚡ Fun fact **Passionate data scientist harnessing the power of data for impactful solutions.**
+📝*Currently delving deeper into the exciting realm of data science to enhance my skills!*.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ganesh-ahire-8a9a31233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganesh-ahire-8a9a31233" height="30" width="40" /></a>
-<a href="https://instagram.com/_ganesh_ahire_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ganesh_ahire_" height="30" width="40" /></a>
-</p>
+❓ *Ask me about Data Science (AI/ML)*.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+⚡* Fun fact Passionate data scientist harnessing the power of data for impactful solutions.*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshahire30&show_icons=true&locale=en&layout=compact" alt="ganeshahire30" /></p>
+## 🌐  𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshahire30&show_icons=true&locale=en" alt="ganeshahire30" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshahire30&" alt="ganeshahire30" /></p>
+[![](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshahire783@gmail.com)
+ [![pub package](https://img.shields.io/badge/LinkedIn-2F4F4F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ganesh-ahire-8a9a31233)
+ [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ganeshahire0)
+
+
+# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  𝐒𝐤𝐢𝐥𝐥𝐬: 
+
+### 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
+ <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-323330?style=for-the-badge&logo=R&logoColor=white"/> 
+
+### 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+
+### 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
+
+<img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Numpy-0077B5?style=for-the-badge&logo=Numpy&logoColor=white"/><img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=Pandas&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/Scikit-learn-0077B5?style=for-the-badge&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Seaborn-0077B5?style=for-the-badge&logo=Seaborn&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Regex-20232A?style=for-the-badge&logo=Regex&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow-0769AD?style=for-the-badge&logo=Tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Opencv-20232A?style=for-the-badge&logo=Opencv&logoColor=white"/>
+
+### 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐧𝐝 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧
+ <img src="https://img.shields.io/badge/Statistics-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Data Wranling-20232A?style=for-the-badge&logo=Data Wranling&logoColor=white" /> <img src="https://img.shields.io/badge/EDA-0078D4?style=for-the-badge&logo=Colab&logoColor=white" />  <img src="https://img.shields.io/badge/Tableau-20232A?style=for-the-badge&logo=Tableau&logoColor=white" />
+
+###  𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞
+ ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+ ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+ ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+###  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬
+ <a href="https://github.com/Tanwar-12"><img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-005C84?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-20232A?style=for-the-badge&logo=Notepad++&logoColor=white"/> </a> <img src="https://img.shields.io/badge/SUBLIME TEXT-005C84?style=for-the-badge&logo=sublimetext&logoColor=white"/><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter Notebook-20232A?style=for-the-badge&logo=Jupyter Notebook&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-0078D4?style=for-the-badge&logo=Colab&logoColor=white" />  <img src="https://img.shields.io/badge/Google_chrome-20232A?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/Pycharm-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  <img src="https://img.shields.io/badge/Replit-20232A?style=for-the-badge&logo=Replit&logoColor=white" /> 
