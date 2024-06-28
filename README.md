@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=GaneshAhire30&style=for-the-badge&color=013243 )
 [![Tanwar-12 stars](https://img.shields.io/github/stars/GaneshAhire30?color=DAF7A6&style=for-the-badge&logo=https://github.com/GaneshAhire30/repo/raw/main/path/to/your/image.png)](https://github.com/GaneshAhire30?tab=repositories&sort=stargazers)
-![Followers](https://img.shields.io/github/followers/Tanwar-12?style=for-the-badge&color=013243)
+![Followers](https://img.shields.io/github/followers/GaneshAhire30?style=for-the-badge&color=013243)
 
 
 <h1 align="center"> 𝐇𝐞𝐲, 𝐈'𝐦 𝐆𝐚𝐧𝐞𝐬𝐡 𝐀𝐡𝐢𝐫𝐞  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
