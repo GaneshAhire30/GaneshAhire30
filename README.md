@@ -19,7 +19,7 @@
 
 ❓ *Ask me about Data Science (AI/ML)*.
 
-⚡* Fun fact Passionate data scientist harnessing the power of data for impactful solutions.*
+⚡*Fun fact Passionate data scientist harnessing the power of data for impactful solutions.*
 
 ## 🌐  𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 
