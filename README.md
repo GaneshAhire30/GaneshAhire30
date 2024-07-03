@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="250" src="https://github.com/GaneshAhire30/GaneshAhire30/blob/main/GH.gif">
 
-*Hi there! I'm Ganesh Ahire, a B.Tech Mechanical Engineer turned Data Scientist and AI Expert. Currently, I'm diving deep into advanced AI skills, continually expanding my knowledge and expertise*
+*Hi there! I'm Ganesh Ahire, a B.E Mechanical Engineer turned Data Scientist and AI Expert. Currently, I'm diving deep into advanced AI skills, continually expanding my knowledge and expertise*
 
 *Driven by an insatiable curiosity and a passion for technology, I am a zealous and self-motivated individual. I thrive on learning and exploring new frontiers, always staying flexible and reliable. My excellent time-keeping skills ensure I make the most of every opportunity to grow and improve.*
 
