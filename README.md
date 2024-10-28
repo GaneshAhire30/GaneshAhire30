@@ -3,6 +3,10 @@
 ![Followers](https://img.shields.io/github/followers/GaneshAhire30?style=for-the-badge&color=013243)
 
 
+
+![image](https://github.com/user-attachments/assets/565b3f3a-2bab-4195-ab00-d4b1978e4f30)
+
+
 <h1 align="center"> 𝐇𝐞𝐲, 𝐈'𝐦 𝐆𝐚𝐧𝐞𝐬𝐡 𝐀𝐡𝐢𝐫𝐞  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 # 🙋‍♂️ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄:
