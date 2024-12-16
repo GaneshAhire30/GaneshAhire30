@@ -63,32 +63,6 @@
 </div>
 
 
-##   <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬: 
-#### 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
-
-| **Deep Learning Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
-|:-------------------------------|:----------------:|:-----------------------------------------------|
-| Face Mask Detection            | [View](https://github.com/PawarMukesh/Face-Mask-Detection)            | `Deep Learning`, `Yolov5`, `Python`            |
-| German Traffic Sign Detection  | [View](https://github.com/GaneshAhire30/Traffic-Sign-Detection)       | `Deep Learning`, `Yolov5`, `Python`            |
-| Pneumonia Chest X-ray           | [View](https://github.com/GaneshAhire30/Pneumonia-Chest-Xray)         | `Deep Learning`, `Image Classification`, `Python` |
-| Rice Leaf Disease Detector     | [View](https://github.com/GaneshAhire30/Rice-Leaf-Disease-Detection)  | `Deep Learning`, `Image Classification`, `Python` |
-
-#### 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
-| **Machine Learning Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
-|:-------------------------------|:----------------:|:-----------------------------------------------|
-| Employee Performance Analysis  | [View](https://github.com/GaneshAhire30/Employee-Performance-Analysis)  | `Machine Learning`, `Python`                   |
-| Bank GoodCredit Project        | [View](https://github.com/GaneshAhire30/Bank_GoodCredit-Client-Project) | `Machine Learning`, `Python`                   |
-| FIFA 20 Clustering             | [View](https://github.com/GaneshAhire30/Fifa20-Clustering)              | `Machine Learning`, `Python`                   |
-| Blood Donation Predication     | [View](https://github.com/GaneshAhire30/Blood-Donation-Prediction)      | `Machine Learning`, `Python`                   |
-| Earth Quack-Detection          | [View](https://github.com/GaneshAhire30/Earth-Quack-Detector)           | `Machine Learning`, `Python`                   |
-| RainFall Time-Series           | [View](https://github.com/GaneshAhire30/RainFall-Time-Series)           | `Machine Learning`, `Python`                   |
-
-
-#### 𝐂𝐍𝐍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬:
-| **CNN Projects**                   | **Repository**   | **Tech Stack & Tools**                          |
-|:-------------------------------|:----------------:|:-----------------------------------------------|
-| Food Image Classification      | [View](https://github.com/GaneshAhire30/Food-Classification)          | `CNN Classification`, `Python`                 |
-| Rice Leaf Disease Detection    | [View](https://github.com/GaneshAhire30/Rice-Leaf-Disease-Detection)  | `CNN Classification`, `Python`                 |
 
 
 ## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
